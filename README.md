@@ -7,5 +7,5 @@
     - 하나의 단어를 2~4개의 동작으로 구분
     - 각 동작을 Label로 두고, Label당 1,000개의 데이터 제작
 - **목표**: 학습된 모델을 이용해 애플리케이션 및 **응용 프로그램** 개발
-  - Python을 이용한 GUI 프로그램
-  - Android Stuio를 이용한 앱
+  - Python을 이용한 GUI 프로그램 (tensorflow lite 이용)
+  - Android Stuio를 이용한 앱 (tensorflow lite 이용)
