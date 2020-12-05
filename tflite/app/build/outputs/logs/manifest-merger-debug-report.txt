@@ -1,0 +1,151 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/leehyeonji/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:1-40:12
+INJECTED from /Users/leehyeonji/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:1-40:12
+INJECTED from /Users/leehyeonji/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:1-40:12
+INJECTED from /Users/leehyeonji/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:1-40:12
+MERGED from [com.android.support:design:25.2.0] /Users/leehyeonji/.gradle/caches/transforms-2/files-2.1/813bc61ae7065e99e25aa712abd7bb32/design-25.2.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/leehyeonji/.gradle/caches/transforms-2/files-2.1/73a37343351e762e36a6ad06dd5bfb18/appcompat-v7-25.2.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/leehyeonji/.gradle/caches/transforms-2/files-2.1/e9ac71a32b92f5085439d0b4b207614b/constraint-layout-1.1.0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v13:25.2.0] /Users/leehyeonji/.gradle/caches/transforms-2/files-2.1/10bfda372718066ff0f4dc33e6f1a7ff/support-v13-25.2.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/leehyeonji/.gradle/caches/transforms-2/files-2.1/bf865a1127610b7419ac63a117c1b3c9/animated-vector-drawable-25.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/leehyeonji/.gradle/caches/transforms-2/files-2.1/f0620f19cef1d9275682d71ed838bcbf/support-vector-drawable-25.2.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:recyclerview-v7:25.2.0] /Users/leehyeonji/.gradle/caches/transforms-2/files-2.1/88d75a0a8ed1b2ab34b7970e69041d9e/recyclerview-v7-25.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:25.2.0] /Users/leehyeonji/.gradle/caches/transforms-2/files-2.1/7a171475daeca338e9adf5eaac031539/transition-25.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:25.2.0] /Users/leehyeonji/.gradle/caches/transforms-2/files-2.1/37f73cabc8507939a45c45ecc19742ec/support-v4-25.2.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/leehyeonji/.gradle/caches/transforms-2/files-2.1/db4751a4ba390f9c3747267cf6309fc0/support-fragment-25.2.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/leehyeonji/.gradle/caches/transforms-2/files-2.1/88e6e719fa07fc8d7cdb810a026b7c9a/support-media-compat-25.2.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/leehyeonji/.gradle/caches/transforms-2/files-2.1/0b7de804165245c8b0e0b9d2d35ca00b/support-core-utils-25.2.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/leehyeonji/.gradle/caches/transforms-2/files-2.1/4565c941ad18c7f87126655807a93757/support-core-ui-25.2.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:25.2.0] /Users/leehyeonji/.gradle/caches/transforms-2/files-2.1/43552f570234d6caa3768dd18742f4e6/support-compat-25.2.0/AndroidManifest.xml:17:1-27:12
+MERGED from [org.tensorflow:tensorflow-lite:2.3.0] /Users/leehyeonji/.gradle/caches/transforms-2/files-2.1/48f736926d36f114f438f518267d7743/tensorflow-lite-2.3.0/AndroidManifest.xml:2:1-12:12
+INJECTED from /Users/leehyeonji/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:1-40:12
+INJECTED from /Users/leehyeonji/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:1-40:12
+INJECTED from /Users/leehyeonji/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:1-40:12
+	package
+		ADDED from /Users/leehyeonji/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:19:5-51
+		INJECTED from /Users/leehyeonji/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/leehyeonji/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/leehyeonji/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+		ADDED from /Users/leehyeonji/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:1-40:12
+		INJECTED from /Users/leehyeonji/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/leehyeonji/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+		ADDED from /Users/leehyeonji/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:1-40:12
+		INJECTED from /Users/leehyeonji/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/leehyeonji/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:11-69
+uses-permission#android.permission.CAMERA
+ADDED from /Users/leehyeonji/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:21:5-65
+	android:name
+		ADDED from /Users/leehyeonji/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:21:22-62
+uses-feature#android.hardware.camera
+ADDED from /Users/leehyeonji/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:23:5-60
+	android:name
+		ADDED from /Users/leehyeonji/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:23:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /Users/leehyeonji/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:24:5-70
+	android:name
+		ADDED from /Users/leehyeonji/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:24:19-67
+application
+ADDED from /Users/leehyeonji/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:26:5-38:19
+MERGED from [com.android.support:design:25.2.0] /Users/leehyeonji/.gradle/caches/transforms-2/files-2.1/813bc61ae7065e99e25aa712abd7bb32/design-25.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:design:25.2.0] /Users/leehyeonji/.gradle/caches/transforms-2/files-2.1/813bc61ae7065e99e25aa712abd7bb32/design-25.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/leehyeonji/.gradle/caches/transforms-2/files-2.1/73a37343351e762e36a6ad06dd5bfb18/appcompat-v7-25.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/leehyeonji/.gradle/caches/transforms-2/files-2.1/73a37343351e762e36a6ad06dd5bfb18/appcompat-v7-25.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/leehyeonji/.gradle/caches/transforms-2/files-2.1/e9ac71a32b92f5085439d0b4b207614b/constraint-layout-1.1.0/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/leehyeonji/.gradle/caches/transforms-2/files-2.1/e9ac71a32b92f5085439d0b4b207614b/constraint-layout-1.1.0/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-v13:25.2.0] /Users/leehyeonji/.gradle/caches/transforms-2/files-2.1/10bfda372718066ff0f4dc33e6f1a7ff/support-v13-25.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v13:25.2.0] /Users/leehyeonji/.gradle/caches/transforms-2/files-2.1/10bfda372718066ff0f4dc33e6f1a7ff/support-v13-25.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/leehyeonji/.gradle/caches/transforms-2/files-2.1/bf865a1127610b7419ac63a117c1b3c9/animated-vector-drawable-25.2.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/leehyeonji/.gradle/caches/transforms-2/files-2.1/bf865a1127610b7419ac63a117c1b3c9/animated-vector-drawable-25.2.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/leehyeonji/.gradle/caches/transforms-2/files-2.1/f0620f19cef1d9275682d71ed838bcbf/support-vector-drawable-25.2.0/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/leehyeonji/.gradle/caches/transforms-2/files-2.1/f0620f19cef1d9275682d71ed838bcbf/support-vector-drawable-25.2.0/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:transition:25.2.0] /Users/leehyeonji/.gradle/caches/transforms-2/files-2.1/7a171475daeca338e9adf5eaac031539/transition-25.2.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:transition:25.2.0] /Users/leehyeonji/.gradle/caches/transforms-2/files-2.1/7a171475daeca338e9adf5eaac031539/transition-25.2.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.2.0] /Users/leehyeonji/.gradle/caches/transforms-2/files-2.1/37f73cabc8507939a45c45ecc19742ec/support-v4-25.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.2.0] /Users/leehyeonji/.gradle/caches/transforms-2/files-2.1/37f73cabc8507939a45c45ecc19742ec/support-v4-25.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/leehyeonji/.gradle/caches/transforms-2/files-2.1/db4751a4ba390f9c3747267cf6309fc0/support-fragment-25.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/leehyeonji/.gradle/caches/transforms-2/files-2.1/db4751a4ba390f9c3747267cf6309fc0/support-fragment-25.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/leehyeonji/.gradle/caches/transforms-2/files-2.1/88e6e719fa07fc8d7cdb810a026b7c9a/support-media-compat-25.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/leehyeonji/.gradle/caches/transforms-2/files-2.1/88e6e719fa07fc8d7cdb810a026b7c9a/support-media-compat-25.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/leehyeonji/.gradle/caches/transforms-2/files-2.1/0b7de804165245c8b0e0b9d2d35ca00b/support-core-utils-25.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/leehyeonji/.gradle/caches/transforms-2/files-2.1/0b7de804165245c8b0e0b9d2d35ca00b/support-core-utils-25.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/leehyeonji/.gradle/caches/transforms-2/files-2.1/4565c941ad18c7f87126655807a93757/support-core-ui-25.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/leehyeonji/.gradle/caches/transforms-2/files-2.1/4565c941ad18c7f87126655807a93757/support-core-ui-25.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] /Users/leehyeonji/.gradle/caches/transforms-2/files-2.1/43552f570234d6caa3768dd18742f4e6/support-compat-25.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] /Users/leehyeonji/.gradle/caches/transforms-2/files-2.1/43552f570234d6caa3768dd18742f4e6/support-compat-25.2.0/AndroidManifest.xml:25:5-20
+MERGED from [org.tensorflow:tensorflow-lite:2.3.0] /Users/leehyeonji/.gradle/caches/transforms-2/files-2.1/48f736926d36f114f438f518267d7743/tensorflow-lite-2.3.0/AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite:2.3.0] /Users/leehyeonji/.gradle/caches/transforms-2/files-2.1/48f736926d36f114f438f518267d7743/tensorflow-lite-2.3.0/AndroidManifest.xml:10:5-20
+	android:label
+		ADDED from /Users/leehyeonji/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:27:9-41
+	android:icon
+		ADDED from /Users/leehyeonji/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:28:9-45
+	android:allowBackup
+		ADDED from /Users/leehyeonji/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:26:18-44
+	android:theme
+		ADDED from /Users/leehyeonji/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:29:9-45
+activity#com.example.android.tflitecamerademo.CameraActivity
+ADDED from /Users/leehyeonji/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:31:9-37:20
+	android:label
+		ADDED from /Users/leehyeonji/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:32:19-51
+	android:name
+		ADDED from /Users/leehyeonji/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:31:19-85
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/leehyeonji/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:33:13-36:29
+action#android.intent.action.MAIN
+ADDED from /Users/leehyeonji/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from /Users/leehyeonji/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/leehyeonji/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from /Users/leehyeonji/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:35:27-74
+uses-sdk
+INJECTED from /Users/leehyeonji/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/leehyeonji/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+INJECTED from /Users/leehyeonji/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:25.2.0] /Users/leehyeonji/.gradle/caches/transforms-2/files-2.1/813bc61ae7065e99e25aa712abd7bb32/design-25.2.0/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.2.0] /Users/leehyeonji/.gradle/caches/transforms-2/files-2.1/813bc61ae7065e99e25aa712abd7bb32/design-25.2.0/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/leehyeonji/.gradle/caches/transforms-2/files-2.1/73a37343351e762e36a6ad06dd5bfb18/appcompat-v7-25.2.0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/leehyeonji/.gradle/caches/transforms-2/files-2.1/73a37343351e762e36a6ad06dd5bfb18/appcompat-v7-25.2.0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/leehyeonji/.gradle/caches/transforms-2/files-2.1/e9ac71a32b92f5085439d0b4b207614b/constraint-layout-1.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/leehyeonji/.gradle/caches/transforms-2/files-2.1/e9ac71a32b92f5085439d0b4b207614b/constraint-layout-1.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v13:25.2.0] /Users/leehyeonji/.gradle/caches/transforms-2/files-2.1/10bfda372718066ff0f4dc33e6f1a7ff/support-v13-25.2.0/AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:support-v13:25.2.0] /Users/leehyeonji/.gradle/caches/transforms-2/files-2.1/10bfda372718066ff0f4dc33e6f1a7ff/support-v13-25.2.0/AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/leehyeonji/.gradle/caches/transforms-2/files-2.1/bf865a1127610b7419ac63a117c1b3c9/animated-vector-drawable-25.2.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/leehyeonji/.gradle/caches/transforms-2/files-2.1/bf865a1127610b7419ac63a117c1b3c9/animated-vector-drawable-25.2.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/leehyeonji/.gradle/caches/transforms-2/files-2.1/f0620f19cef1d9275682d71ed838bcbf/support-vector-drawable-25.2.0/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/leehyeonji/.gradle/caches/transforms-2/files-2.1/f0620f19cef1d9275682d71ed838bcbf/support-vector-drawable-25.2.0/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:25.2.0] /Users/leehyeonji/.gradle/caches/transforms-2/files-2.1/88d75a0a8ed1b2ab34b7970e69041d9e/recyclerview-v7-25.2.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.2.0] /Users/leehyeonji/.gradle/caches/transforms-2/files-2.1/88d75a0a8ed1b2ab34b7970e69041d9e/recyclerview-v7-25.2.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.2.0] /Users/leehyeonji/.gradle/caches/transforms-2/files-2.1/7a171475daeca338e9adf5eaac031539/transition-25.2.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.2.0] /Users/leehyeonji/.gradle/caches/transforms-2/files-2.1/7a171475daeca338e9adf5eaac031539/transition-25.2.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.2.0] /Users/leehyeonji/.gradle/caches/transforms-2/files-2.1/37f73cabc8507939a45c45ecc19742ec/support-v4-25.2.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.2.0] /Users/leehyeonji/.gradle/caches/transforms-2/files-2.1/37f73cabc8507939a45c45ecc19742ec/support-v4-25.2.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/leehyeonji/.gradle/caches/transforms-2/files-2.1/db4751a4ba390f9c3747267cf6309fc0/support-fragment-25.2.0/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/leehyeonji/.gradle/caches/transforms-2/files-2.1/db4751a4ba390f9c3747267cf6309fc0/support-fragment-25.2.0/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/leehyeonji/.gradle/caches/transforms-2/files-2.1/88e6e719fa07fc8d7cdb810a026b7c9a/support-media-compat-25.2.0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/leehyeonji/.gradle/caches/transforms-2/files-2.1/88e6e719fa07fc8d7cdb810a026b7c9a/support-media-compat-25.2.0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/leehyeonji/.gradle/caches/transforms-2/files-2.1/0b7de804165245c8b0e0b9d2d35ca00b/support-core-utils-25.2.0/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/leehyeonji/.gradle/caches/transforms-2/files-2.1/0b7de804165245c8b0e0b9d2d35ca00b/support-core-utils-25.2.0/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/leehyeonji/.gradle/caches/transforms-2/files-2.1/4565c941ad18c7f87126655807a93757/support-core-ui-25.2.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/leehyeonji/.gradle/caches/transforms-2/files-2.1/4565c941ad18c7f87126655807a93757/support-core-ui-25.2.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] /Users/leehyeonji/.gradle/caches/transforms-2/files-2.1/43552f570234d6caa3768dd18742f4e6/support-compat-25.2.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] /Users/leehyeonji/.gradle/caches/transforms-2/files-2.1/43552f570234d6caa3768dd18742f4e6/support-compat-25.2.0/AndroidManifest.xml:21:5-23:58
+MERGED from [org.tensorflow:tensorflow-lite:2.3.0] /Users/leehyeonji/.gradle/caches/transforms-2/files-2.1/48f736926d36f114f438f518267d7743/tensorflow-lite-2.3.0/AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite:2.3.0] /Users/leehyeonji/.gradle/caches/transforms-2/files-2.1/48f736926d36f114f438f518267d7743/tensorflow-lite-2.3.0/AndroidManifest.xml:7:5-8:41
+INJECTED from /Users/leehyeonji/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+INJECTED from /Users/leehyeonji/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.2.0] /Users/leehyeonji/.gradle/caches/transforms-2/files-2.1/813bc61ae7065e99e25aa712abd7bb32/design-25.2.0/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/leehyeonji/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+		ADDED from /Users/leehyeonji/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/leehyeonji/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/leehyeonji/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+		ADDED from /Users/leehyeonji/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+		MERGED from /Users/leehyeonji/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/leehyeonji/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
