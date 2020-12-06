@@ -50,7 +50,6 @@ class Ui_MainWindow(object):
         font.setFamily(u"D2Coding")
         font.setPointSize(24)
         font.setBold(True)
-        #font.setWeight(75)
         self.image_label.setFont(font)
 
 
